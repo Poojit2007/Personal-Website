@@ -1,0 +1,153 @@
+body{
+    /* background-color: azure; */
+    margin: 0;
+    
+
+}
+         /* Home Section of The Website */
+              /* Navbar section */
+.navbar{
+    background-color: azure;
+    padding: 10px;
+}
+
+.nav-item{
+    padding: 10px;
+    font-family: Sansita Swashed;
+    margin: 0;
+}
+.navbar-brand{
+    padding-left: 100px;
+    font-size: 55px;
+    font-family: Sansita Swashed;
+    margin: 0;
+}
+                /* Title Section */
+.hi{
+   width:619px ;
+   height: 362.703px;
+   
+   margin: 0;
+   
+}
+
+
+h1{
+    font-family: Sansita Swashed;
+    padding-left: 20px;
+    margin:0;
+    
+}
+
+.intro{
+    padding:100px;
+    margin: 0;
+}
+.Title{
+    background-color:azure;
+    margin:0;
+    
+}
+.bar{
+    background-color:azure;
+    margin:0;
+} 
+                     /* About Me */
+ hr{
+    
+    width:1px;
+    border-top-style: dotted;
+    border-width: 10px;
+    color:grey;
+    padding-right: 100px;
+}
+.line{
+    padding-right: 50px;
+}                     
+.About{
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+} 
+#about-me{
+    text-align:center;
+    padding: 20px;
+    padding-right: 63px;
+}
+#Workbro{
+    text-align:center;
+    padding: 20px;
+    padding-right: 63px;
+}
+h2{
+    font-family: Sansita Swashed;
+    padding: 10px;
+}
+.info{
+     width:806px;
+     height:385px;
+     padding-bottom: 300px;
+     padding-right:10px;
+     float: left;
+}
+.who{
+    font-size: 2rem;
+    padding: 20px;
+}
+
+
+.para{
+    font-family:Sansita Swashed ;
+    font-size: 1.4rem;
+    margin: 0;
+    padding: 20px;
+    
+    }
+.who1{
+    font-size: 2rem;
+    padding: 175px;
+}
+.learn{
+      width:219px ;
+      height: 262.703px;
+      border:2px solid grey;
+      border-radius: 5%;
+}
+.me{
+    padding:100px;
+}
+.Profile{
+    width:619px ;
+    height: 362.703px;
+    padding: 20px;
+}
+.para1{
+    font-family:Sansita Swashed;
+    font-size: 1.5rem;
+    padding: 40px;
+    text-align: center;
+}
+.darling{
+    margin: none;
+}
+.learn3{
+    width:219px ;
+      height: 262.703px;
+    border:2px solid grey;
+    border-radius: 5%;
+}
+                                     /* My Work */
+.carousel-item{
+    padding: 7% 15%;
+}
+                                    /* Footer */
+ .commision{
+     font-family:Sansita Swashed;
+     text-align: center;
+     padding: 7% 15%;
+ }
+ .envelope{
+     size: 10px;
+ }
+ #Contactbro{
+    background-color: azure;
+ }                                   
